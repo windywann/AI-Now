@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026-03-19T20:05:00+08:00",
+  "items": [
+    {
+      "id": 1,
+      "repo": "666ghj/MiroFish",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "language": "Python",
+      "stars": "1.2K",
+      "forks": "89",
+      "todayStars": "本周新增 1,020",
+      "url": "https://github.com/666ghj/MiroFish"
+    },
+    {
+      "id": 2,
+      "repo": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw).",
+      "language": "Python",
+      "stars": "2.1K",
+      "forks": "145",
+      "todayStars": "本周新增 850",
+      "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+      "id": 3,
+      "repo": "langflow-ai/openrag",
+      "description": "OpenRAG is a comprehensive, single package Retrieval-Augmented Generation platform built on Langflow, Docling, and Opensearch.",
+      "language": "Python",
+      "stars": "3.5K",
+      "forks": "210",
+      "todayStars": "本周新增 780",
+      "url": "https://github.com/langflow-ai/openrag"
+    },
+    {
+      "id": 4,
+      "repo": "microsoft/BitNet",
+      "description": "Official inference framework for 1-bit LLMs",
+      "language": "Python",
+      "stars": "15.2K",
+      "forks": "1.1K",
+      "todayStars": "本周新增 640",
+      "url": "https://github.com/microsoft/BitNet"
+    },
+    {
+      "id": 5,
+      "repo": "fishaudio/fish-speech",
+      "description": "SOTA Open Source TTS",
+      "language": "Python",
+      "stars": "18.5K",
+      "forks": "1.5K",
+      "todayStars": "本周新增 590",
+      "url": "https://github.com/fishaudio/fish-speech"
+    }
+  ]
+}

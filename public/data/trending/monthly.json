@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026-03-19T20:05:00+08:00",
+  "items": [
+    {
+      "id": 1,
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skills and subagents.",
+      "language": "Python",
+      "stars": "8.5K",
+      "forks": "620",
+      "todayStars": "本月新增 3,200",
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "id": 2,
+      "repo": "huggingface/skills",
+      "description": "Give your agents the power of the Hugging Face ecosystem",
+      "language": "Python",
+      "stars": "4.2K",
+      "forks": "310",
+      "todayStars": "本月新增 2,800",
+      "url": "https://github.com/huggingface/skills"
+    },
+    {
+      "id": 3,
+      "repo": "alibaba/OpenSandbox",
+      "description": "OpenSandbox is a general-purpose sandbox platform for AI applications, offering multi-language SDKs, unified sandbox APIs.",
+      "language": "Python",
+      "stars": "5.6K",
+      "forks": "480",
+      "todayStars": "本月新增 2,100",
+      "url": "https://github.com/alibaba/OpenSandbox"
+    },
+    {
+      "id": 4,
+      "repo": "alirezarezvani/claude-skills",
+      "description": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents.",
+      "language": "Python",
+      "stars": "2.8K",
+      "forks": "150",
+      "todayStars": "本月新增 1,500",
+      "url": "https://github.com/alirezarezvani/claude-skills"
+    },
+    {
+      "id": 5,
+      "repo": "anthropics/claude-code-security-review",
+      "description": "An AI-powered security review GitHub Action using Claude to analyze code changes for security vulnerabilities.",
+      "language": "Python",
+      "stars": "3.8K",
+      "forks": "322",
+      "todayStars": "本月新增 859",
+      "url": "https://github.com/anthropics/claude-code-security-review"
+    }
+  ]
+}

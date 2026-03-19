@@ -1,0 +1,55 @@
+{
+  "updatedAt": "2026-03-19T20:05:00+08:00",
+  "items": [
+    {
+      "id": 1,
+      "repo": "jarrodwatts/claude-hud",
+      "description": "A Claude Code plugin that shows what's happening — context usage, active tools, running agents, and todo progress. Always visible below your input.",
+      "language": "TypeScript",
+      "stars": "3.4K",
+      "forks": "124",
+      "todayStars": "+1,890",
+      "url": "https://github.com/jarrodwatts/claude-hud"
+    },
+    {
+      "id": 2,
+      "repo": "langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent — open-source framework for building your org's internal coding agent, built on LangGraph and Deep Agents.",
+      "language": "Python",
+      "stars": "8.2K",
+      "forks": "410",
+      "todayStars": "+2,340",
+      "url": "https://github.com/langchain-ai/open-swe"
+    },
+    {
+      "id": 3,
+      "repo": "unslothai/unsloth",
+      "description": "Unified web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally. 2x faster, 70% less VRAM.",
+      "language": "Python",
+      "stars": "42K",
+      "forks": "2.8K",
+      "todayStars": "+1,120",
+      "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "id": 4,
+      "repo": "obra/superpowers",
+      "description": "An agentic skills framework & software development methodology that works. Build AI-powered developer tools with composable skills.",
+      "language": "JavaScript",
+      "stars": "5.1K",
+      "forks": "302",
+      "todayStars": "+980",
+      "url": "https://github.com/obra/superpowers"
+    },
+    {
+      "id": 5,
+      "repo": "newton-physics/newton",
+      "description": "An open-source, GPU-accelerated physics simulation engine built upon NVIDIA Warp, specifically targeting roboticists and simulation researchers.",
+      "language": "Python",
+      "stars": "12.6K",
+      "forks": "890",
+      "todayStars": "+760",
+      "url": "https://github.com/newton-physics/newton"
+    }
+  ]
+}

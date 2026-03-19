@@ -1,16 +1,13 @@
 import { useState, useEffect } from 'react';
 import { Github, TrendingUp, Star, GitFork, ArrowUp } from 'lucide-react';
-import { githubTrending, githubTrendingWeekly, githubTrendingMonthly } from '../data/newsData';
+import { fetchTrendingData } from '../lib/content';
+import type { TrendingItem } from '../types/content';
 
 export default function TrendingPage() {
-  const [timeRange, setTimeRange] = useState('today');
+  const [timeRange, setTimeRange] = useState<'today' | 'week' | 'month'>('today');
   const [showScrollTop, setShowScrollTop] = useState(false);
-
-  const currentTrendingData = timeRange === 'today' 
-    ? githubTrending 
-    : timeRange === 'week' 
-      ? githubTrendingWeekly 
-      : githubTrendingMonthly;
+  const [items, setItems] = useState<TrendingItem[]>([]);
+  const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -19,6 +16,26 @@ export default function TrendingPage() {
     window.addEventListener('scroll', handleScroll);
     return () => window.removeEventListener('scroll', handleScroll);
   }, []);
+
+  useEffect(() => {
+    let mounted = true;
+    const range = timeRange === 'today' ? 'daily' : timeRange === 'week' ? 'weekly' : 'monthly';
+
+    fetchTrendingData(range)
+      .then((data) => {
+        if (!mounted) return;
+        setItems(data.items);
+        setError(null);
+      })
+      .catch(() => {
+        if (!mounted) return;
+        setError('Trending 加载失败');
+      });
+
+    return () => {
+      mounted = false;
+    };
+  }, [timeRange]);
 
   const scrollToTop = () => {
     window.scrollTo({ top: 0, behavior: 'smooth' });
@@ -53,8 +70,10 @@ export default function TrendingPage() {
         </div>
       </div>
 
+      {error && <div className="max-w-4xl mx-auto mb-4 text-sm text-red-600">{error}</div>}
+
       <div className="max-w-4xl mx-auto space-y-6">
-        {currentTrendingData.map((repo) => (
+        {items.map((repo) => (
           <a
             key={repo.id}
             href={repo.url || `https://github.com/${repo.repo}`}
@@ -64,13 +83,9 @@ export default function TrendingPage() {
           >
             <div className="flex-1">
               <div className="flex items-start justify-between mb-2">
-                <h3 className="text-xl font-semibold text-blue-600 break-all">
-                  {repo.repo}
-                </h3>
+                <h3 className="text-xl font-semibold text-blue-600 break-all">{repo.repo}</h3>
               </div>
-              <p className="text-[15px] text-[#515154] mb-4">
-                {repo.description}
-              </p>
+              <p className="text-[15px] text-[#515154] mb-4">{repo.description}</p>
               <div className="flex flex-wrap items-center gap-4 text-sm text-[#86868b]">
                 <span className="flex items-center gap-1.5">
                   <span className="w-3 h-3 rounded-full bg-blue-500 inline-block"></span>
