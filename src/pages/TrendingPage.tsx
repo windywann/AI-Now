@@ -1,10 +1,16 @@
 import { useState, useEffect } from 'react';
 import { Github, TrendingUp, Star, GitFork, ArrowUp } from 'lucide-react';
-import { githubTrending } from '../data/newsData';
+import { githubTrending, githubTrendingWeekly, githubTrendingMonthly } from '../data/newsData';
 
 export default function TrendingPage() {
   const [timeRange, setTimeRange] = useState('today');
   const [showScrollTop, setShowScrollTop] = useState(false);
+
+  const currentTrendingData = timeRange === 'today' 
+    ? githubTrending 
+    : timeRange === 'week' 
+      ? githubTrendingWeekly 
+      : githubTrendingMonthly;
 
   useEffect(() => {
     const handleScroll = () => {
@@ -48,7 +54,7 @@ export default function TrendingPage() {
       </div>
 
       <div className="max-w-4xl mx-auto space-y-6">
-        {githubTrending.map((repo) => (
+        {currentTrendingData.map((repo) => (
           <a
             key={repo.id}
             href={repo.url || `https://github.com/${repo.repo}`}
@@ -84,7 +90,7 @@ export default function TrendingPage() {
             <div className="md:text-right flex items-center md:flex-col gap-2 md:gap-1">
               <div className="flex items-center gap-1.5 text-sm font-medium text-emerald-600 bg-emerald-50 px-3 py-1.5 rounded-full whitespace-nowrap">
                 <TrendingUp size={14} />
-                今日 {repo.todayStars}
+                {repo.todayStars}
               </div>
             </div>
           </a>
