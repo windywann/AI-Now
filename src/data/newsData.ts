@@ -114,6 +114,16 @@ export const aiNews = [
     url: "https://www.clinicalleader.com/doc/fda-s-elsa-ai-switches-from-claude-to-gemini-what-sponsors-need-to-know-0001",
     category: "行业动态",
   },
+  {
+    id: 12,
+    time: "19:33",
+    date: "2026-03-19",
+    title: "字典出版商集体起诉OpenAI版权侵权",
+    summary: "Britannica 和 Merriam-Webster 起诉 OpenAI，指控其通过 ChatGPT 吸收内容、损害出版商广告和订阅收入。诉讼称 OpenAI 未经许可使用了数百名人类编辑的研究成果，并要求永久禁令。",
+    source: "Fortune",
+    url: "https://fortune.com/2026/03/18/dictionaries-suing-openai-chatgpt-copyright-infringement/",
+    category: "行业动态",
+  },
 ];
 
 export const githubTrendingWeekly = [
