@@ -114,6 +114,8 @@ export const aiNews = [
     url: "https://www.clinicalleader.com/doc/fda-s-elsa-ai-switches-from-claude-to-gemini-what-sponsors-need-to-know-0001",
     category: "行业动态",
   },
+];
+
 export const githubTrendingWeekly = [
   {
     id: 1,
