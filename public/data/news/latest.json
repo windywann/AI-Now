@@ -1,6 +1,46 @@
 {
-  "updatedAt": "2026-03-19T13:00:51.760Z",
+  "updatedAt": "2026-03-20T03:52:56.592Z",
   "items": [
+    {
+      "id": 13,
+      "title": "OpenAI 宣布收购 Astral，加速 Codex 进入 Python 全工作流",
+      "summary": "OpenAI 宣布将收购开源 Python 工具公司 Astral，把 uv、Ruff、ty 等工具生态引入 Codex。官方称 Codex 年内用户数已增长 3 倍、使用量增长 5 倍，后续将探索让 AI 代理更直接地参与 Python 项目管理、质量控制与类型检查。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-to-acquire-astral/",
+      "category": "产品",
+      "date": "2026-03-20",
+      "time": "11:47"
+    },
+    {
+      "id": 14,
+      "title": "OpenAI 披露内部 Coding Agent 监控体系，使用 GPT-5.4 Thinking 审查异常行为",
+      "summary": "OpenAI 发布最新安全实践，称其内部已用 GPT-5.4 Thinking 构建低延迟监控系统，用于审查 Coding Agent 的链路、推理与工具调用，并在 30 分钟内完成风险分级。官方表示过去 5 个月已监控数千万条内部编码轨迹，未出现最高严重级别真实事件。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/how-we-monitor-internal-coding-agents-misalignment/",
+      "category": "安全",
+      "date": "2026-03-20",
+      "time": "11:46"
+    },
+    {
+      "id": 15,
+      "title": "百度发布 AI“Lobsters”，路透称 NVIDIA CEO 在 GTC 场合点名 OpenClaw",
+      "summary": "路透社报道称，百度展示了基于 OpenClaw 构建的“Lobster”AI 代理，并借 GTC 期间的行业热度强化 Agent 生态叙事。这一动态反映出中国厂商正在把多代理工作流与工具编排能力推向更公开的产品化阶段。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW564219032026RP1/",
+      "category": "行业动态",
+      "date": "2026-03-20",
+      "time": "11:45"
+    },
+    {
+      "id": 16,
+      "title": "Google 推出 Kaggle Community Hackathons，让个人也能发起全球 AI 挑战",
+      "summary": "Google 在 Kaggle 上推出 Community Hackathons，新机制允许个人和团队快速发起面向全球开发者的 AI 挑战赛，进一步降低开源模型实验、评测与社区协作门槛。该更新强化了 Google 在开发者生态和 AI 社区运营上的布局。",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-kaggle-community-hackathons/",
+      "category": "开发者",
+      "date": "2026-03-20",
+      "time": "11:44"
+    },
     {
       "id": 12,
       "time": "19:33",
