@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-03-26T11:55:00+08:00",
+  "updatedAt": "2026-03-31T15:00:00+08:00",
   "items": [
+    {
+      "id": 37,
+      "title": "中国发起数据组织推动全球行业共识，AI 数据治理进入标准化博弈期",
+      "summary": "路透社 3 月 31 日报道，中国宣布成立面向全球行业共识的数据组织，目标是推动跨国数据流通与规则协同。这一动作被视为在 AI 时代争夺数据标准与治理话语权的关键一步。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/china-establishes-data-organisation-aimed-global-industry-consensus-2026-03-31/",
+      "category": "政策",
+      "date": "2026-03-31",
+      "time": "14:50"
+    },
+    {
+      "id": 36,
+      "title": "DeepSeek 聊天机器人出现 2025 爆红以来最长宕机，服务韧性再受关注",
+      "summary": "路透社 3 月 30 日称，DeepSeek AI 聊天机器人遭遇自 2025 年初爆红以来最长中断。事件再次凸显大模型平台在高并发与突发流量场景下的可用性挑战。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/chinas-deepseek-ai-chatbot-suffers-longest-outage-since-viral-rise-early-2025-2026-03-30/",
+      "category": "行业动态",
+      "date": "2026-03-31",
+      "time": "14:30"
+    },
+    {
+      "id": 35,
+      "title": "TechCrunch：Anthropic Claude 在付费消费者中的渗透率快速上升",
+      "summary": "TechCrunch 3 月 28 日报道称，Anthropic Claude 在付费消费者市场的增长显著提速，显示其在通用助手赛道的商业化势能正在增强，也加剧了与 ChatGPT 等产品的订阅竞争。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "category": "行业动态",
+      "date": "2026-03-30",
+      "time": "18:00"
+    },
+    {
+      "id": 34,
+      "title": "OpenAI：230 年历史企业 STADLER 全员落地 ChatGPT，重塑知识工作流程",
+      "summary": "OpenAI 于 3 月 27 日发布案例称，STADLER 正在 650 名员工范围内系统化部署 ChatGPT，将多类知识工作从小时级压缩至分钟级，代表传统制造企业加速把生成式 AI 嵌入一线业务流程。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/stadler/",
+      "category": "企业应用",
+      "date": "2026-03-28",
+      "time": "10:20"
+    },
+    {
+      "id": 33,
+      "title": "苹果聘请前 Google 高管执掌 AI 战略，头部科技公司高层争夺持续升温",
+      "summary": "路透社 3 月 27 日报道，苹果任命前 Google 高管 Mike Stadler 负责 AI 战略相关工作。该任命反映出头部科技公司正通过高层人才流动强化 AI 组织能力与产品节奏。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/apple-hires-former-google-executive-mike-stadler-lead-ai-efforts-2026-03-27/",
+      "category": "行业动态",
+      "date": "2026-03-27",
+      "time": "20:30"
+    },
     {
       "id": 29,
       "title": "德国军方评估将 AI 引入战时决策流程，以缩短信息处理与指挥链路",

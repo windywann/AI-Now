@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-03-26T11:55:00+08:00",
+  "updatedAt": "2026-03-31T15:00:00+08:00",
   "items": [
     {
       "id": 1,
       "repo": "666ghj/MiroFish",
-      "description": "Star 666ghj / MiroFish A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
+      "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": "42,809",
-      "forks": "5,909",
-      "todayStars": "本月新增 38,193",
+      "stars": "46,484",
+      "forks": "6,603",
+      "todayStars": "本月新增 N/A",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
       "id": 2,
-      "repo": "bytedance/deer-flow",
-      "description": "Star bytedance / deer-flow An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
+      "repo": "NousResearch/hermes-agent",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "46,694",
-      "forks": "5,529",
-      "todayStars": "本月新增 25,279",
-      "url": "https://github.com/bytedance/deer-flow"
+      "stars": "19,155",
+      "forks": "2,312",
+      "todayStars": "本月新增 N/A",
+      "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
       "id": 3,
-      "repo": "sponsors/D4Vinci",
-      "description": "Sponsor Star D4Vinci / Scrapling 🕷️ An adaptive Web Scraping framework that handles everything from a single request to a full-scale crawl!",
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": "32,842",
-      "forks": "2,631",
-      "todayStars": "本月新增 17,662",
-      "url": "https://github.com/sponsors/D4Vinci"
+      "stars": "54,503",
+      "forks": "6,569",
+      "todayStars": "本月新增 N/A",
+      "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "id": 4,
-      "repo": "volcengine/OpenViking",
-      "description": "Star volcengine / OpenViking OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "language": "Python",
-      "stars": "19,102",
-      "forks": "1,315",
-      "todayStars": "本月新增 15,198",
-      "url": "https://github.com/volcengine/OpenViking"
-    },
-    {
-      "id": 5,
       "repo": "alirezarezvani/claude-skills",
-      "description": "Star alirezarezvani / claude-skills +192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+      "description": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
       "language": "Python",
-      "stars": "6,978",
-      "forks": "828",
-      "todayStars": "本月新增 4,906",
+      "stars": "8,223",
+      "forks": "973",
+      "todayStars": "本月新增 N/A",
       "url": "https://github.com/alirezarezvani/claude-skills"
     },
     {
-      "id": 6,
-      "repo": "langchain-ai/open-swe",
-      "description": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent",
+      "id": 5,
+      "repo": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
-      "stars": "8,473",
-      "forks": "989",
-      "todayStars": "本月新增 3,160",
-      "url": "https://github.com/langchain-ai/open-swe"
+      "stars": "20,160",
+      "forks": "1,404",
+      "todayStars": "本月新增 N/A",
+      "url": "https://github.com/volcengine/OpenViking"
+    },
+    {
+      "id": 6,
+      "repo": "mvanhorn/last30days-skill",
+      "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
+      "language": "Python",
+      "stars": "16,587",
+      "forks": "1,319",
+      "todayStars": "本月新增 N/A",
+      "url": "https://github.com/mvanhorn/last30days-skill"
     },
     {
       "id": 7,
-      "repo": "fishaudio/fish-speech",
-      "description": "Star fishaudio / fish-speech SOTA Open Source TTS",
+      "repo": "langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars": "28,795",
-      "forks": "2,415",
-      "todayStars": "本月新增 3,854",
-      "url": "https://github.com/fishaudio/fish-speech"
+      "stars": "8,884",
+      "forks": "1,024",
+      "todayStars": "本月新增 N/A",
+      "url": "https://github.com/langchain-ai/open-swe"
     },
     {
       "id": 8,
-      "repo": "microsoft/BitNet",
-      "description": "Star microsoft / BitNet Official inference framework for 1-bit LLMs",
-      "language": "Python",
-      "stars": "36,648",
-      "forks": "3,173",
-      "todayStars": "本月新增 8,138",
-      "url": "https://github.com/microsoft/BitNet"
-    },
-    {
-      "id": 9,
       "repo": "TauricResearch/TradingAgents",
-      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
       "language": "Python",
-      "stars": "41,907",
-      "forks": "7,685",
-      "todayStars": "本月新增 11,157",
+      "stars": "44,766",
+      "forks": "8,102",
+      "todayStars": "本月新增 N/A",
       "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
-      "id": 10,
+      "id": 9,
       "repo": "teng-lin/notebooklm-py",
-      "description": "Star teng-lin / notebooklm-py Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
-      "stars": "7,537",
-      "forks": "942",
-      "todayStars": "本月新增 5,293",
+      "stars": "8,382",
+      "forks": "1,043",
+      "todayStars": "本月新增 N/A",
       "url": "https://github.com/teng-lin/notebooklm-py"
+    },
+    {
+      "id": 10,
+      "repo": "langchain-ai/deepagents",
+      "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "language": "Python",
+      "stars": "18,284",
+      "forks": "2,556",
+      "todayStars": "本月新增 N/A",
+      "url": "https://github.com/langchain-ai/deepagents"
     }
   ]
 }

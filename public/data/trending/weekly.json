@@ -1,105 +1,105 @@
 {
-  "updatedAt": "2026-03-26T11:55:00+08:00",
+  "updatedAt": "2026-03-31T15:00:00+08:00",
   "items": [
     {
-      "id": 1,
-      "repo": "sponsors/FujiwaraChoki",
-      "description": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
-      "language": "Python",
-      "stars": "25,690",
-      "forks": "2,665",
-      "todayStars": "本周新增 9,873",
-      "url": "https://github.com/sponsors/FujiwaraChoki"
-    },
-    {
-      "id": 2,
-      "repo": "TauricResearch/TradingAgents",
-      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
-      "language": "Python",
-      "stars": "41,907",
-      "forks": "7,685",
-      "todayStars": "本周新增 8,939",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "id": 3,
-      "repo": "langchain-ai/open-swe",
-      "description": "Star langchain-ai / open-swe An Open-Source Asynchronous Coding Agent",
-      "language": "Python",
-      "stars": "8,473",
-      "forks": "989",
-      "todayStars": "本周新增 2,531",
-      "url": "https://github.com/langchain-ai/open-swe"
-    },
-    {
-      "id": 4,
-      "repo": "bytedance/deer-flow",
-      "description": "Star bytedance / deer-flow An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
-      "language": "Python",
-      "stars": "46,694",
-      "forks": "5,529",
-      "todayStars": "本周新增 13,951",
-      "url": "https://github.com/bytedance/deer-flow"
-    },
-    {
-      "id": 5,
-      "repo": "harry0703/MoneyPrinterTurbo",
-      "description": "Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
-      "language": "Python",
-      "stars": "53,202",
-      "forks": "7,514",
-      "todayStars": "本周新增 2,869",
-      "url": "https://github.com/harry0703/MoneyPrinterTurbo"
-    },
-    {
-      "id": 6,
-      "repo": "NousResearch/hermes-agent",
-      "description": "Star NousResearch / hermes-agent The agent that grows with you",
-      "language": "Python",
-      "stars": "13,311",
-      "forks": "1,601",
-      "todayStars": "本周新增 4,365",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "id": 7,
-      "repo": "sponsors/unslothai",
-      "description": "Sponsor Star unslothai / unsloth Unsloth Studio is a web UI for training and running open models like Qwen, DeepSeek, gpt-oss and Gemma locally.",
-      "language": "Python",
-      "stars": "58,218",
-      "forks": "4,915",
-      "todayStars": "本周新增 2,861",
-      "url": "https://github.com/sponsors/unslothai"
-    },
-    {
-      "id": 8,
-      "repo": "hsliuping/TradingAgents-CN",
-      "description": "Star hsliuping / TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
-      "language": "Python",
-      "stars": "21,406",
-      "forks": "4,444",
-      "todayStars": "本周新增 2,478",
-      "url": "https://github.com/hsliuping/TradingAgents-CN"
-    },
-    {
-      "id": 9,
       "repo": "mvanhorn/last30days-skill",
       "description": "Star mvanhorn / last30days-skill AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "8,042",
-      "forks": "739",
-      "todayStars": "本周新增 2,358",
-      "url": "https://github.com/mvanhorn/last30days-skill"
+      "stars": "16,585",
+      "forks": "1,319",
+      "todayStars": "本周新增 11,605",
+      "url": "https://github.com/mvanhorn/last30days-skill",
+      "id": 1
     },
     {
-      "id": 10,
-      "repo": "langchain-ai/deepagents",
-      "description": "Star langchain-ai / deepagents Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
+      "repo": "bytedance/deer-flow",
+      "description": "Star bytedance / deer-flow An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": "17,513",
-      "forks": "2,455",
-      "todayStars": "本周新增 2,586",
-      "url": "https://github.com/langchain-ai/deepagents"
+      "stars": "54,499",
+      "forks": "6,569",
+      "todayStars": "本周新增 16,370",
+      "url": "https://github.com/bytedance/deer-flow",
+      "id": 2
+    },
+    {
+      "repo": "hacksider/Deep-Live-Cam",
+      "description": "Sponsor Star hacksider / Deep-Live-Cam real time face swap and one-click video deepfake with only a single image",
+      "language": "Python",
+      "stars": "86,648",
+      "forks": "12,576",
+      "todayStars": "本周新增 5,826",
+      "url": "https://github.com/hacksider/Deep-Live-Cam",
+      "id": 3
+    },
+    {
+      "repo": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Sponsor Star FujiwaraChoki / MoneyPrinterV2 Automate the process of making money online.",
+      "language": "Python",
+      "stars": "27,532",
+      "forks": "2,911",
+      "todayStars": "本周新增 5,910",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2",
+      "id": 4
+    },
+    {
+      "repo": "SakanaAI/AI-Scientist-v2",
+      "description": "Star SakanaAI / AI-Scientist-v2 The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "language": "Python",
+      "stars": "4,097",
+      "forks": "604",
+      "todayStars": "本周新增 1,664",
+      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
+      "id": 5
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "description": "Star microsoft / VibeVoice Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "31,596",
+      "forks": "3,508",
+      "todayStars": "本周新增 4,768",
+      "url": "https://github.com/microsoft/VibeVoice",
+      "id": 6
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "Star TauricResearch / TradingAgents TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "44,765",
+      "forks": "8,102",
+      "todayStars": "本周新增 5,888",
+      "url": "https://github.com/TauricResearch/TradingAgents",
+      "id": 7
+    },
+    {
+      "repo": "harry0703/MoneyPrinterTurbo",
+      "description": "Star harry0703 / MoneyPrinterTurbo 利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.",
+      "language": "Python",
+      "stars": "54,247",
+      "forks": "7,649",
+      "todayStars": "本周新增 2,526",
+      "url": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "id": 8
+    },
+    {
+      "repo": "NousResearch/hermes-agent",
+      "description": "Star NousResearch / hermes-agent The agent that grows with you",
+      "language": "Python",
+      "stars": "19,154",
+      "forks": "2,312",
+      "todayStars": "本周新增 6,892",
+      "url": "https://github.com/NousResearch/hermes-agent",
+      "id": 9
+    },
+    {
+      "repo": "hsliuping/TradingAgents-CN",
+      "description": "Star hsliuping / TradingAgents-CN 基于多智能体LLM的中文金融交易框架 - TradingAgents中文增强版",
+      "language": "Python",
+      "stars": "22,329",
+      "forks": "4,597",
+      "todayStars": "本周新增 2,087",
+      "url": "https://github.com/hsliuping/TradingAgents-CN",
+      "id": 10
     }
   ]
 }
