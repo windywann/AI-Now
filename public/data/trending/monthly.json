@@ -1,14 +1,14 @@
 {
-  "updatedAt": "2026-03-31T15:00:00+08:00",
+  "updatedAt": "2026-04-07T15:20:00+08:00",
   "items": [
     {
       "id": 1,
       "repo": "666ghj/MiroFish",
       "description": "A Simple and Universal Swarm Intelligence Engine, Predicting Anything. 简洁通用的群体智能引擎，预测万物",
       "language": "Python",
-      "stars": "46,484",
-      "forks": "6,603",
-      "todayStars": "本月新增 N/A",
+      "stars": "50,921",
+      "forks": "7,528",
+      "todayStars": "本月新增 45,905",
       "url": "https://github.com/666ghj/MiroFish"
     },
     {
@@ -16,9 +16,9 @@
       "repo": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "19,155",
-      "forks": "2,312",
-      "todayStars": "本月新增 N/A",
+      "stars": "28,761",
+      "forks": "3,804",
+      "todayStars": "本月新增 25,584",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
@@ -26,79 +26,79 @@
       "repo": "bytedance/deer-flow",
       "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates. With the help of sandboxes, memories, tools, skill, subagents and message gateway, it handles different levels of tasks that could take minutes to hours.",
       "language": "Python",
-      "stars": "54,503",
-      "forks": "6,569",
-      "todayStars": "本月新增 N/A",
+      "stars": "58,846",
+      "forks": "7,392",
+      "todayStars": "本月新增 33,924",
       "url": "https://github.com/bytedance/deer-flow"
     },
     {
       "id": 4,
-      "repo": "alirezarezvani/claude-skills",
-      "description": "+192 Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
+      "repo": "FujiwaraChoki/MoneyPrinterV2",
+      "description": "Automate the process of making money online.",
       "language": "Python",
-      "stars": "8,223",
-      "forks": "973",
-      "todayStars": "本月新增 N/A",
-      "url": "https://github.com/alirezarezvani/claude-skills"
+      "stars": "28,629",
+      "forks": "3,094",
+      "todayStars": "本月新增 13,858",
+      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
     },
     {
       "id": 5,
-      "repo": "volcengine/OpenViking",
-      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
-      "language": "Python",
-      "stars": "20,160",
-      "forks": "1,404",
-      "todayStars": "本月新增 N/A",
-      "url": "https://github.com/volcengine/OpenViking"
-    },
-    {
-      "id": 6,
       "repo": "mvanhorn/last30days-skill",
       "description": "AI agent skill that researches any topic across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded summary",
       "language": "Python",
-      "stars": "16,587",
-      "forks": "1,319",
-      "todayStars": "本月新增 N/A",
+      "stars": "19,308",
+      "forks": "1,564",
+      "todayStars": "本月新增 15,405",
       "url": "https://github.com/mvanhorn/last30days-skill"
+    },
+    {
+      "id": 6,
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "48,025",
+      "forks": "8,711",
+      "todayStars": "本月新增 16,606",
+      "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
       "id": 7,
       "repo": "langchain-ai/open-swe",
       "description": "An Open-Source Asynchronous Coding Agent",
       "language": "Python",
-      "stars": "8,884",
-      "forks": "1,024",
-      "todayStars": "本月新增 N/A",
+      "stars": "9,273",
+      "forks": "1,051",
+      "todayStars": "本月新增 4,011",
       "url": "https://github.com/langchain-ai/open-swe"
     },
     {
       "id": 8,
-      "repo": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "repo": "volcengine/OpenViking",
+      "description": "OpenViking is an open-source context database designed specifically for AI Agents(such as openclaw). OpenViking unifies the management of context (memory, resources, and skills) that Agents need through a file system paradigm, enabling hierarchical context delivery and self-evolving.",
       "language": "Python",
-      "stars": "44,766",
-      "forks": "8,102",
-      "todayStars": "本月新增 N/A",
-      "url": "https://github.com/TauricResearch/TradingAgents"
+      "stars": "21,387",
+      "forks": "1,526",
+      "todayStars": "本月新增 16,565",
+      "url": "https://github.com/volcengine/OpenViking"
     },
     {
       "id": 9,
-      "repo": "teng-lin/notebooklm-py",
-      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
+      "repo": "alirezarezvani/claude-skills",
+      "description": "220+ Claude Code skills & agent plugins for Claude Code, Codex, Gemini CLI, Cursor, and 8 more coding agents — engineering, marketing, product, compliance, C-level advisory.",
       "language": "Python",
-      "stars": "8,382",
-      "forks": "1,043",
-      "todayStars": "本月新增 N/A",
-      "url": "https://github.com/teng-lin/notebooklm-py"
+      "stars": "9,832",
+      "forks": "1,208",
+      "todayStars": "本月新增 7,217",
+      "url": "https://github.com/alirezarezvani/claude-skills"
     },
     {
       "id": 10,
       "repo": "langchain-ai/deepagents",
       "description": "Agent harness built with LangChain and LangGraph. Equipped with a planning tool, a filesystem backend, and the ability to spawn subagents - well-equipped to handle complex agentic tasks.",
       "language": "Python",
-      "stars": "18,284",
-      "forks": "2,556",
-      "todayStars": "本月新增 N/A",
+      "stars": "19,628",
+      "forks": "2,732",
+      "todayStars": "本月新增 9,595",
       "url": "https://github.com/langchain-ai/deepagents"
     }
   ]

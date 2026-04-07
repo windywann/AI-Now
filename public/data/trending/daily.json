@@ -1,105 +1,85 @@
 {
-  "updatedAt": "2026-03-31T15:00:00+08:00",
+  "updatedAt": "2026-04-07T15:20:00+08:00",
   "items": [
     {
-      "repo": "microsoft/VibeVoice",
-      "description": "Star microsoft / VibeVoice Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars": "31,596",
-      "forks": "3,508",
-      "todayStars": "今日新增 2,492",
-      "url": "https://github.com/microsoft/VibeVoice",
-      "id": 1
-    },
-    {
-      "repo": "luongnv89/claude-howto",
-      "description": "Sponsor Star luongnv89 / claude-howto A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars": "10,740",
-      "forks": "1,086",
-      "todayStars": "今日新增 4,232",
-      "url": "https://github.com/luongnv89/claude-howto",
-      "id": 2
-    },
-    {
-      "repo": "hacksider/Deep-Live-Cam",
-      "description": "Sponsor Star hacksider / Deep-Live-Cam real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": "86,647",
-      "forks": "12,576",
-      "todayStars": "今日新增 1,136",
-      "url": "https://github.com/hacksider/Deep-Live-Cam",
-      "id": 3
-    },
-    {
-      "repo": "OpenBB-finance/OpenBB",
-      "description": "Sponsor Star OpenBB-finance / OpenBB Financial data platform for analysts, quants and AI agents.",
-      "language": "Python",
-      "stars": "64,692",
-      "forks": "6,360",
-      "todayStars": "今日新增 502",
-      "url": "https://github.com/OpenBB-finance/OpenBB",
-      "id": 4
-    },
-    {
-      "repo": "sherlock-project/sherlock",
-      "description": "Star sherlock-project / sherlock Hunt down social media accounts by username across social networks",
-      "language": "Python",
-      "stars": "74,973",
-      "forks": "8,856",
-      "todayStars": "今日新增 76",
-      "url": "https://github.com/sherlock-project/sherlock",
-      "id": 5
-    },
-    {
+      "id": 1,
       "repo": "NousResearch/hermes-agent",
-      "description": "Star NousResearch / hermes-agent The agent that grows with you",
+      "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "19,154",
-      "forks": "2,312",
-      "todayStars": "今日新增 1,851",
-      "url": "https://github.com/NousResearch/hermes-agent",
-      "id": 6
+      "stars": "28,760",
+      "forks": "3,804",
+      "todayStars": "今日新增 1,574",
+      "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "repo": "SakanaAI/AI-Scientist-v2",
-      "description": "Star SakanaAI / AI-Scientist-v2 The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "id": 2,
+      "repo": "NVIDIA/personaplex",
+      "description": "PersonaPlex code.",
       "language": "Python",
-      "stars": "4,097",
-      "forks": "604",
-      "todayStars": "今日新增 238",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2",
-      "id": 7
+      "stars": "7,537",
+      "forks": "1,106",
+      "todayStars": "今日新增 295",
+      "url": "https://github.com/NVIDIA/personaplex"
     },
     {
-      "repo": "microsoft/agent-lightning",
-      "description": "Star microsoft / agent-lightning The absolute trainer to light up AI agents.",
+      "id": 3,
+      "repo": "HKUDS/DeepTutor",
+      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
       "language": "Python",
-      "stars": "16,051",
-      "forks": "1,387",
-      "todayStars": "今日新增 251",
-      "url": "https://github.com/microsoft/agent-lightning",
-      "id": 8
+      "stars": "11,598",
+      "forks": "1,608",
+      "todayStars": "今日新增 164",
+      "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "repo": "Z4nzu/hackingtool",
-      "description": "Star Z4nzu / hackingtool ALL IN ONE Hacking Tool For Hackers",
+      "id": 4,
+      "repo": "Blaizzy/mlx-vlm",
+      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
       "language": "Python",
-      "stars": "56,948",
-      "forks": "6,253",
-      "todayStars": "今日新增 862",
-      "url": "https://github.com/Z4nzu/hackingtool",
-      "id": 9
+      "stars": "4,127",
+      "forks": "439",
+      "todayStars": "今日新增 277",
+      "url": "https://github.com/Blaizzy/mlx-vlm"
     },
     {
-      "repo": "virattt/ai-hedge-fund",
-      "description": "Star virattt / ai-hedge-fund An AI Hedge Fund Team",
+      "id": 5,
+      "repo": "teng-lin/notebooklm-py",
+      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
       "language": "Python",
-      "stars": "49,816",
-      "forks": "8,649",
-      "todayStars": "今日新增 61",
-      "url": "https://github.com/virattt/ai-hedge-fund",
-      "id": 10
+      "stars": "9,396",
+      "forks": "1,224",
+      "todayStars": "今日新增 131",
+      "url": "https://github.com/teng-lin/notebooklm-py"
+    },
+    {
+      "id": 6,
+      "repo": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
+      "language": "Python",
+      "stars": "341,709",
+      "forks": "55,239",
+      "todayStars": "今日新增 175",
+      "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+      "id": 7,
+      "repo": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
+      "language": "Python",
+      "stars": "25,579",
+      "forks": "3,410",
+      "todayStars": "今日新增 639",
+      "url": "https://github.com/onyx-dot-app/onyx"
+    },
+    {
+      "id": 8,
+      "repo": "Jeffallan/claude-skills",
+      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "language": "Python",
+      "stars": "7,931",
+      "forks": "613",
+      "todayStars": "今日新增 84",
+      "url": "https://github.com/Jeffallan/claude-skills"
     }
   ]
 }

@@ -1,6 +1,56 @@
 {
-  "updatedAt": "2026-03-31T15:00:00+08:00",
+  "updatedAt": "2026-04-07T15:20:00+08:00",
   "items": [
+    {
+      "id": 42,
+      "title": "OpenAI 发布《智能时代产业政策》框架，提出以“普惠分配+安全治理”引导超智能时代",
+      "summary": "OpenAI 于 4 月 6 日发布《Industrial policy for the Intelligence Age》，提出通过公众财富基金、政策反馈机制与研究资助等方式，让先进 AI 的收益更广泛分配，并同步建设更具韧性的制度框架。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/industrial-policy-for-the-intelligence-age/",
+      "category": "政策",
+      "date": "2026-04-07",
+      "time": "15:10"
+    },
+    {
+      "id": 41,
+      "title": "OpenAI 宣布完成 1220 亿美元融资，估值达 8520 亿美元",
+      "summary": "OpenAI 宣布新一轮融资完成，获得 1220 亿美元承诺资本，投后估值达 8520 亿美元。公司同时披露 ChatGPT 周活超 9 亿、企业收入占比持续上升，并强调多云多芯片的算力战略。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "category": "行业动态",
+      "date": "2026-04-03",
+      "time": "09:30"
+    },
+    {
+      "id": 40,
+      "title": "OpenAI 收购科技媒体 TBPN，强化 AI 传播与生态对话能力",
+      "summary": "OpenAI 于 4 月 2 日宣布收购 TBPN。官方表示 TBPN 将保持编辑独立，同时纳入 Strategy 体系，协同提升公司在 AI 产业沟通、内容分发与公众教育方面的能力。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/openai-acquires-tbpn/",
+      "category": "行业动态",
+      "date": "2026-04-02",
+      "time": "20:00"
+    },
+    {
+      "id": 39,
+      "title": "Anthropic 研究：大模型存在可影响决策的“功能性情绪”表示",
+      "summary": "Anthropic 最新可解释性研究显示，Claude Sonnet 4.5 内部存在与“快乐/焦虑/绝望”等情绪概念相关的表示，并会在偏好选择与高风险行为中产生可测影响，提示模型安全治理需纳入“心理机制”视角。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/emotion-concepts-function",
+      "category": "研究",
+      "date": "2026-04-02",
+      "time": "18:20"
+    },
+    {
+      "id": 38,
+      "title": "微软拟在日本追加 100 亿美元 AI 与网络防御投资",
+      "summary": "路透社 4 月 2 日报道，微软计划在日本新增约 100 亿美元投入，用于 AI 基础设施与网络防御能力扩张，反映出头部云厂商在亚太区域持续加码算力与安全布局。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/microsoft-invest-10-billion-japan-ai-cyber-defence-expansion-2026-04-03/",
+      "category": "行业动态",
+      "date": "2026-04-02",
+      "time": "16:10"
+    },
     {
       "id": 37,
       "title": "中国发起数据组织推动全球行业共识，AI 数据治理进入标准化博弈期",
