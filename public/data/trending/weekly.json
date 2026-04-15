@@ -1,105 +1,95 @@
 {
-  "updatedAt": "2026-04-07T15:20:00+08:00",
+  "updatedAt": "2026-04-15T13:57:16.975Z",
   "items": [
     {
-      "id": 1,
-      "repo": "luongnv89/claude-howto",
-      "description": "A visual, example-driven guide to Claude Code — from basic concepts to advanced agents, with copy-paste templates that bring immediate value.",
-      "language": "Python",
-      "stars": "21,730",
-      "forks": "2,577",
-      "todayStars": "本周新增 12,085",
-      "url": "https://github.com/luongnv89/claude-howto"
-    },
-    {
-      "id": 2,
-      "repo": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars": "37,051",
-      "forks": "4,259",
-      "todayStars": "本周新增 8,392",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "id": 3,
-      "repo": "google-research/timesfm",
-      "description": "TimesFM (Time Series Foundation Model) is a pretrained time-series foundation model developed by Google Research for time-series forecasting.",
-      "language": "Python",
-      "stars": "15,272",
-      "forks": "1,337",
-      "todayStars": "本周新增 4,241",
-      "url": "https://github.com/google-research/timesfm"
-    },
-    {
-      "id": 4,
       "repo": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "28,760",
-      "forks": "3,804",
-      "todayStars": "本周新增 9,662",
+      "stars": "29,412",
+      "forks": "3,891",
+      "todayStars": "本周新增 4,821",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "id": 5,
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates.",
+      "language": "Python",
+      "stars": "18,432",
+      "forks": "2,341",
+      "todayStars": "本周新增 3,102",
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "repo": "TauricResearch/TradingAgents",
+      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "language": "Python",
+      "stars": "16,891",
+      "forks": "2,108",
+      "todayStars": "本周新增 2,834",
+      "url": "https://github.com/TauricResearch/TradingAgents"
+    },
+    {
+      "repo": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI",
+      "language": "Python",
+      "stars": "11,234",
+      "forks": "1,456",
+      "todayStars": "本周新增 2,543",
+      "url": "https://github.com/microsoft/VibeVoice"
+    },
+    {
+      "repo": "langchain-ai/open-swe",
+      "description": "An Open-Source Asynchronous Coding Agent",
+      "language": "Python",
+      "stars": "9,867",
+      "forks": "1,234",
+      "todayStars": "本周新增 2,109",
+      "url": "https://github.com/langchain-ai/open-swe"
+    },
+    {
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
+      "language": "Python",
+      "stars": "41,823",
+      "forks": "6,102",
+      "todayStars": "本周新增 1,987",
+      "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Agent-Native Personalized Learning Assistant",
+      "language": "Python",
+      "stars": "12,087",
+      "forks": "1,671",
+      "todayStars": "本周新增 1,876",
+      "url": "https://github.com/HKUDS/DeepTutor"
+    },
+    {
       "repo": "onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": "25,579",
-      "forks": "3,410",
-      "todayStars": "本周新增 5,240",
+      "stars": "26,218",
+      "forks": "3,489",
+      "todayStars": "本周新增 1,654",
       "url": "https://github.com/onyx-dot-app/onyx"
     },
     {
-      "id": 6,
-      "repo": "sherlock-project/sherlock",
-      "description": "Hunt down social media accounts by username across social networks",
+      "repo": "hacksider/Deep-Live-Cam",
+      "description": "real time face swap and one-click video deepfake with only a single image",
       "language": "Python",
-      "stars": "80,134",
-      "forks": "9,314",
-      "todayStars": "本周新增 5,811",
-      "url": "https://github.com/sherlock-project/sherlock"
+      "stars": "62,341",
+      "forks": "9,123",
+      "todayStars": "本周新增 1,432",
+      "url": "https://github.com/hacksider/Deep-Live-Cam"
     },
     {
-      "id": 7,
-      "repo": "roboflow/supervision",
-      "description": "We write your reusable computer vision tools. 💜",
+      "repo": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": "37,780",
-      "forks": "3,312",
-      "todayStars": "本周新增 995",
-      "url": "https://github.com/roboflow/supervision"
-    },
-    {
-      "id": 8,
-      "repo": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
-      "language": "Python",
-      "stars": "5,149",
-      "forks": "710",
-      "todayStars": "本周新增 1,094",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2"
-    },
-    {
-      "id": 9,
-      "repo": "plastic-labs/honcho",
-      "description": " Memory library for building stateful agents",
-      "language": "Python",
-      "stars": "1,743",
-      "forks": "214",
-      "todayStars": "本周新增 399",
-      "url": "https://github.com/plastic-labs/honcho"
-    },
-    {
-      "id": 10,
-      "repo": "OpenBB-finance/OpenBB",
-      "description": "Financial data platform for analysts, quants and AI agents.",
-      "language": "Python",
-      "stars": "65,513",
-      "forks": "6,491",
-      "todayStars": "本周新增 1,178",
-      "url": "https://github.com/OpenBB-finance/OpenBB"
+      "stars": "52,873",
+      "forks": "3,915",
+      "todayStars": "本周新增 1,287",
+      "url": "https://github.com/microsoft/markitdown"
     }
   ]
 }

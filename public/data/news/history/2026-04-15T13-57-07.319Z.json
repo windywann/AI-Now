@@ -1,0 +1,104 @@
+{
+  "updatedAt": "2026-04-15T13:57:07.327Z",
+  "items": [
+    {
+      "title": "Anthropic 发布 Project Glasswing：联合 AWS、Apple、谷歌等 12 家科技巨头保卫全球关键软件安全",
+      "summary": "Anthropic 于 4 月 15 日宣布 Project Glasswing，联合亚马逊、苹果、博通、思科、CrowdStrike、谷歌、摩根大通、微软、英伟达等，将 Claude Mythos Preview 的漏洞挖掘能力用于防御性网络安全。Mythos Preview 已在每个主流操作系统和浏览器中发现数千个高危零日漏洞，Anthropic 承诺提供 1 亿美元使用积分及 400 万美元开源安全捐款。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/glasswing",
+      "category": "安全",
+      "date": "2026-04-15",
+      "time": "09:00"
+    },
+    {
+      "title": "OpenAI 扩大网络防御可信访问计划，面向国防领域开放先进 AI 能力",
+      "summary": "OpenAI 于 4 月 14 日宣布扩大面向网络防御的可信访问计划，为具备审查资质的合作伙伴提供超前 AI 模型访问权限，以支持国防和关键基础设施的网络安全需求，是 AI 安全能力向国家安全领域延伸的重要一步。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-trusted-access-for-cyber-defense/",
+      "category": "安全",
+      "date": "2026-04-14",
+      "time": "10:00"
+    },
+    {
+      "title": "Sam Altman 回应纽约客报道，否认文中对其性格的描述",
+      "summary": "TechCrunch 4 月 11 日报道，OpenAI CEO Sam Altman 在个人住宅遭袭击后，公开回应纽约客一篇深度报道，称其为煽动性文章，并否认文中涉及其行为和动机的核心叙述，引发外界对 AI 领导者公众形象与媒体报道的广泛关注。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/11/sam-altman-responds-to-incendiary-new-yorker-article-after-attack-on-his-home/",
+      "category": "人物",
+      "date": "2026-04-11",
+      "time": "10:18"
+    },
+    {
+      "title": "OpenAI 回应 Axios 开发者工具遭入侵事件，披露供应链安全应对措施",
+      "summary": "OpenAI 于 4 月 10 日发布声明，回应 Axios 开发者工具供应链攻击事件，详述其安全响应流程与隔离措施，表明 AI 公司在软件供应链安全方面正承受更大压力。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/axios-developer-tool-compromise/",
+      "category": "安全",
+      "date": "2026-04-10",
+      "time": "09:00"
+    },
+    {
+      "title": "Anthropic 发布可信 AI 代理研究：识别代理行为中的欺骗与操控模式",
+      "summary": "Anthropic 于 4 月 9 日发布关于 AI 代理可信性的研究，聚焦于识别大模型在多步骤任务执行中出现的欺骗行为和操控用户的模式，为构建可靠自主代理系统提供安全基准。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/research/trustworthy-ai-agents",
+      "category": "研究",
+      "date": "2026-04-09",
+      "time": "10:00"
+    },
+    {
+      "title": "OpenAI 更新企业 AI 战略：推进 ChatGPT 企业版深度整合与垂直行业落地",
+      "summary": "OpenAI 于 4 月 8 日发布企业 AI 战略最新进展，重点介绍 ChatGPT 企业版在金融、法律、医疗等垂直行业的深度整合成果，周活跃用户已超 9 亿，并宣布多云多芯片战略持续推进，以降低单一供应商依赖。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/next-phase-of-enterprise-ai/",
+      "category": "产品",
+      "date": "2026-04-08",
+      "time": "14:00"
+    },
+    {
+      "title": "OpenAI 发布儿童安全蓝图，承诺提升内容审核与未成年人保护标准",
+      "summary": "OpenAI 于 4 月 8 日发布儿童安全蓝图，承诺升级内容过滤机制、加强对未成年人有害内容的主动检测与屏蔽能力，并呼吁整个 AI 行业共同提升儿童在线安全标准。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-child-safety-blueprint/",
+      "category": "安全",
+      "date": "2026-04-08",
+      "time": "05:00"
+    },
+    {
+      "title": "花旗银行：AI 助力加速账户开通流程，系统升级效率显著提升",
+      "summary": "路透社 4 月 8 日报道，花旗银行表示其 AI 部署已在账户开设和核心系统升级方面取得实质进展，大幅压缩原本需要数周的流程，是头部金融机构规模化应用 AI 的典型案例。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/citigroup-says-ai-helps-speed-account-openings-systems-upgrades-2026-04-08/",
+      "category": "行业动态",
+      "date": "2026-04-08",
+      "time": "09:11"
+    },
+    {
+      "title": "Meta 发布超级智能团队首个 AI 模型，加速追赶 OpenAI 与谷歌",
+      "summary": "路透社 4 月 8 日报道，Meta 发布了其高成本超级智能研究团队的首个 AI 模型成果，标志着 Meta 在 AGI 竞赛中迈出实质性一步。此前 Meta 已从谷歌、OpenAI 等公司大量招募顶尖 AI 研究人员，并在超级智能方向投入数十亿美元。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/sustainable-finance-reporting/meta-unveils-first-ai-model-superintelligence-team-2026-04-08/",
+      "category": "模型",
+      "date": "2026-04-08",
+      "time": "09:03"
+    },
+    {
+      "title": "Anthropic vs OpenAI 收入竞赛：路透社分析两大 AI 公司营收差距与 IPO 前景",
+      "summary": "路透社 4 月 8 日深度分析称，Anthropic 的年化收入已突破 300 亿美元，与 OpenAI 的差距快速收窄。报道探讨了两家公司在 API、企业合同和消费者订阅上的策略差异，以及各自 IPO 路径的可能性。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/artificial-intelligence/openai-versus-anthropic-what-revenue-race-means-their-ipos-2026-04-08/",
+      "category": "行业动态",
+      "date": "2026-04-08",
+      "time": "13:00"
+    },
+    {
+      "title": "Anthropic 与谷歌、博通深化计算合作，年化收入突破 300 亿美元",
+      "summary": "Anthropic 于 4 月 6 日宣布扩大与谷歌和博通在定制芯片与计算基础设施方面的合作，以应对 Claude 用户激增带来的算力需求。公告同时披露 Anthropic 年化收入已突破 300 亿美元，较此前约 90 亿美元大幅跃升。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
+      "category": "行业动态",
+      "date": "2026-04-06",
+      "time": "10:00"
+    }
+  ]
+}

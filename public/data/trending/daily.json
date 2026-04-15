@@ -1,85 +1,77 @@
 {
-  "updatedAt": "2026-04-07T15:20:00+08:00",
+  "updatedAt": "2026-04-15T13:57:16.975Z",
   "items": [
     {
-      "id": 1,
       "repo": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "28,760",
-      "forks": "3,804",
-      "todayStars": "今日新增 1,574",
+      "stars": "29,412",
+      "forks": "3,891",
+      "todayStars": "今日新增 823",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "id": 2,
-      "repo": "NVIDIA/personaplex",
-      "description": "PersonaPlex code.",
+      "repo": "anthropics/project-glasswing",
+      "description": "Project Glasswing: AI-powered vulnerability detection for critical software",
       "language": "Python",
-      "stars": "7,537",
-      "forks": "1,106",
-      "todayStars": "今日新增 295",
-      "url": "https://github.com/NVIDIA/personaplex"
+      "stars": "8,734",
+      "forks": "1,021",
+      "todayStars": "今日新增 2,194",
+      "url": "https://github.com/anthropics/project-glasswing"
     },
     {
-      "id": 3,
       "repo": "HKUDS/DeepTutor",
-      "description": "\"DeepTutor: Agent-Native Personalized Learning Assistant\"",
+      "description": "DeepTutor: Agent-Native Personalized Learning Assistant",
       "language": "Python",
-      "stars": "11,598",
-      "forks": "1,608",
-      "todayStars": "今日新增 164",
+      "stars": "12,087",
+      "forks": "1,671",
+      "todayStars": "今日新增 312",
       "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "id": 4,
-      "repo": "Blaizzy/mlx-vlm",
-      "description": "MLX-VLM is a package for inference and fine-tuning of Vision Language Models (VLMs) on your Mac using MLX.",
-      "language": "Python",
-      "stars": "4,127",
-      "forks": "439",
-      "todayStars": "今日新增 277",
-      "url": "https://github.com/Blaizzy/mlx-vlm"
-    },
-    {
-      "id": 5,
-      "repo": "teng-lin/notebooklm-py",
-      "description": "Unofficial Python API and agentic skill for Google NotebookLM. Full programmatic access to NotebookLM's features—including capabilities the web UI doesn't expose—via Python, CLI, and AI agents like Claude Code, Codex, and OpenClaw.",
-      "language": "Python",
-      "stars": "9,396",
-      "forks": "1,224",
-      "todayStars": "今日新增 131",
-      "url": "https://github.com/teng-lin/notebooklm-py"
-    },
-    {
-      "id": 6,
-      "repo": "donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashcards.",
-      "language": "Python",
-      "stars": "341,709",
-      "forks": "55,239",
-      "todayStars": "今日新增 175",
-      "url": "https://github.com/donnemartin/system-design-primer"
-    },
-    {
-      "id": 7,
       "repo": "onyx-dot-app/onyx",
       "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
       "language": "Python",
-      "stars": "25,579",
-      "forks": "3,410",
-      "todayStars": "今日新增 639",
+      "stars": "26,218",
+      "forks": "3,489",
+      "todayStars": "今日新增 276",
       "url": "https://github.com/onyx-dot-app/onyx"
     },
     {
-      "id": 8,
-      "repo": "Jeffallan/claude-skills",
-      "description": "66 Specialized Skills for Full-Stack Developers. Transform Claude Code into your expert pair programmer.",
+      "repo": "unslothai/unsloth",
+      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
       "language": "Python",
-      "stars": "7,931",
-      "forks": "613",
-      "todayStars": "今日新增 84",
-      "url": "https://github.com/Jeffallan/claude-skills"
+      "stars": "41,823",
+      "forks": "6,102",
+      "todayStars": "今日新增 198",
+      "url": "https://github.com/unslothai/unsloth"
+    },
+    {
+      "repo": "donnemartin/system-design-primer",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
+      "language": "Python",
+      "stars": "342,104",
+      "forks": "55,298",
+      "todayStars": "今日新增 145",
+      "url": "https://github.com/donnemartin/system-design-primer"
+    },
+    {
+      "repo": "bytedance/deer-flow",
+      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates.",
+      "language": "Python",
+      "stars": "18,432",
+      "forks": "2,341",
+      "todayStars": "今日新增 134",
+      "url": "https://github.com/bytedance/deer-flow"
+    },
+    {
+      "repo": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "52,873",
+      "forks": "3,915",
+      "todayStars": "今日新增 119",
+      "url": "https://github.com/microsoft/markitdown"
     }
   ]
 }
