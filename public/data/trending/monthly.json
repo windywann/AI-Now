@@ -1,95 +1,95 @@
 {
-  "updatedAt": "2026-04-15T13:57:16.975Z",
+  "updatedAt": "2026-04-24T09:29:34Z",
   "items": [
     {
       "repo": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "29,412",
-      "forks": "3,891",
-      "todayStars": "本月新增 18,234",
+      "stars": "114,192",
+      "forks": "16,680",
+      "todayStars": "本月新增 102,133",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "repo": "FujiwaraChoki/MoneyPrinterV2",
-      "description": "Automate the process of making money online.",
+      "repo": "HKUDS/DeepTutor",
+      "description": "DeepTutor: Agent-Native Personalized Learning Assistant.",
       "language": "Python",
-      "stars": "18,923",
-      "forks": "2,784",
-      "todayStars": "本月新增 12,341",
-      "url": "https://github.com/FujiwaraChoki/MoneyPrinterV2"
+      "stars": "21,284",
+      "forks": "2,871",
+      "todayStars": "本月新增 10,475",
+      "url": "https://github.com/HKUDS/DeepTutor"
     },
     {
-      "repo": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates.",
+      "repo": "microsoft/VibeVoice",
+      "description": "Open-Source Frontier Voice AI.",
       "language": "Python",
-      "stars": "18,432",
-      "forks": "2,341",
-      "todayStars": "本月新增 11,876",
-      "url": "https://github.com/bytedance/deer-flow"
+      "stars": "40,897",
+      "forks": "4,728",
+      "todayStars": "本月新增 17,134",
+      "url": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "repo": "onyx-dot-app/onyx",
+      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM.",
       "language": "Python",
-      "stars": "16,891",
-      "forks": "2,108",
-      "todayStars": "本月新增 9,234",
-      "url": "https://github.com/TauricResearch/TradingAgents"
+      "stars": "28,319",
+      "forks": "3,761",
+      "todayStars": "本月新增 10,377",
+      "url": "https://github.com/onyx-dot-app/onyx"
     },
     {
       "repo": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": "52,873",
-      "forks": "3,915",
-      "todayStars": "本月新增 8,912",
+      "stars": "116,298",
+      "forks": "7,609",
+      "todayStars": "本月新增 24,309",
       "url": "https://github.com/microsoft/markitdown"
     },
     {
-      "repo": "SakanaAI/AI-Scientist-v2",
-      "description": "The AI Scientist-v2: Workshop-Level Automated Scientific Discovery via Agentic Tree Search",
+      "repo": "shiyu-coder/Kronos",
+      "description": "Kronos: A foundation model for the language of financial markets.",
       "language": "Python",
-      "stars": "14,782",
-      "forks": "1,923",
-      "todayStars": "本月新增 8,341",
-      "url": "https://github.com/SakanaAI/AI-Scientist-v2"
+      "stars": "21,035",
+      "forks": "3,749",
+      "todayStars": "本月新增 9,544",
+      "url": "https://github.com/shiyu-coder/Kronos"
     },
     {
-      "repo": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
+      "repo": "OpenBMB/VoxCPM",
+      "description": "Tokenizer-free multilingual TTS for speech generation, voice design, and cloning.",
       "language": "Python",
-      "stars": "11,234",
-      "forks": "1,456",
-      "todayStars": "本月新增 7,891",
-      "url": "https://github.com/microsoft/VibeVoice"
+      "stars": "15,785",
+      "forks": "1,858",
+      "todayStars": "本月新增 9,655",
+      "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
-      "repo": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "language": "Python",
-      "stars": "26,218",
-      "forks": "3,489",
-      "todayStars": "本月新增 7,234",
-      "url": "https://github.com/onyx-dot-app/onyx"
+      "repo": "google-ai-edge/gallery",
+      "description": "A gallery of on-device ML and GenAI use cases that can be tried locally.",
+      "language": "Kotlin",
+      "stars": "21,934",
+      "forks": "2,118",
+      "todayStars": "本月新增 6,534",
+      "url": "https://github.com/google-ai-edge/gallery"
     },
     {
-      "repo": "langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
+      "repo": "google-research/timesfm",
+      "description": "A pretrained time-series foundation model developed by Google Research.",
       "language": "Python",
-      "stars": "9,867",
-      "forks": "1,234",
-      "todayStars": "本月新增 6,987",
-      "url": "https://github.com/langchain-ai/open-swe"
+      "stars": "18,442",
+      "forks": "1,805",
+      "todayStars": "本月新增 8,358",
+      "url": "https://github.com/google-research/timesfm"
     },
     {
-      "repo": "unslothai/unsloth",
-      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
-      "language": "Python",
-      "stars": "41,823",
-      "forks": "6,102",
-      "todayStars": "本月新增 6,543",
-      "url": "https://github.com/unslothai/unsloth"
+      "repo": "google-ai-edge/LiteRT-LM",
+      "description": "LiteRT-LM runtime for on-device language model inference.",
+      "language": "C++",
+      "stars": "4,249",
+      "forks": "421",
+      "todayStars": "本月新增 3,265",
+      "url": "https://github.com/google-ai-edge/LiteRT-LM"
     }
   ]
 }

@@ -1,95 +1,86 @@
 {
-  "updatedAt": "2026-04-15T13:57:16.975Z",
+  "updatedAt": "2026-04-24T09:29:34Z",
   "items": [
     {
       "repo": "NousResearch/hermes-agent",
       "description": "The agent that grows with you",
       "language": "Python",
-      "stars": "29,412",
-      "forks": "3,891",
-      "todayStars": "本周新增 4,821",
+      "stars": "114,192",
+      "forks": "16,680",
+      "todayStars": "本周新增 20,316",
       "url": "https://github.com/NousResearch/hermes-agent"
     },
     {
-      "repo": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates.",
+      "repo": "openai/openai-agents-python",
+      "description": "A lightweight, powerful framework for multi-agent workflows.",
       "language": "Python",
-      "stars": "18,432",
-      "forks": "2,341",
-      "todayStars": "本周新增 3,102",
-      "url": "https://github.com/bytedance/deer-flow"
+      "stars": "24,929",
+      "forks": "3,807",
+      "todayStars": "本周新增 3,842",
+      "url": "https://github.com/openai/openai-agents-python"
     },
     {
-      "repo": "TauricResearch/TradingAgents",
-      "description": "TradingAgents: Multi-Agents LLM Financial Trading Framework",
+      "repo": "Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
       "language": "Python",
-      "stars": "16,891",
-      "forks": "2,108",
-      "todayStars": "本周新增 2,834",
-      "url": "https://github.com/TauricResearch/TradingAgents"
-    },
-    {
-      "repo": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI",
-      "language": "Python",
-      "stars": "11,234",
-      "forks": "1,456",
-      "todayStars": "本周新增 2,543",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "repo": "langchain-ai/open-swe",
-      "description": "An Open-Source Asynchronous Coding Agent",
-      "language": "Python",
-      "stars": "9,867",
-      "forks": "1,234",
-      "todayStars": "本周新增 2,109",
-      "url": "https://github.com/langchain-ai/open-swe"
-    },
-    {
-      "repo": "unslothai/unsloth",
-      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
-      "language": "Python",
-      "stars": "41,823",
-      "forks": "6,102",
-      "todayStars": "本周新增 1,987",
-      "url": "https://github.com/unslothai/unsloth"
-    },
-    {
-      "repo": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Agent-Native Personalized Learning Assistant",
-      "language": "Python",
-      "stars": "12,087",
-      "forks": "1,671",
-      "todayStars": "本周新增 1,876",
-      "url": "https://github.com/HKUDS/DeepTutor"
-    },
-    {
-      "repo": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "language": "Python",
-      "stars": "26,218",
-      "forks": "3,489",
-      "todayStars": "本周新增 1,654",
-      "url": "https://github.com/onyx-dot-app/onyx"
-    },
-    {
-      "repo": "hacksider/Deep-Live-Cam",
-      "description": "real time face swap and one-click video deepfake with only a single image",
-      "language": "Python",
-      "stars": "62,341",
-      "forks": "9,123",
-      "todayStars": "本周新增 1,432",
-      "url": "https://github.com/hacksider/Deep-Live-Cam"
+      "stars": "2,743",
+      "forks": "302",
+      "todayStars": "本周新增 1,614",
+      "url": "https://github.com/Tracer-Cloud/opensre"
     },
     {
       "repo": "microsoft/markitdown",
       "description": "Python tool for converting files and office documents to Markdown.",
       "language": "Python",
-      "stars": "52,873",
-      "forks": "3,915",
-      "todayStars": "本周新增 1,287",
+      "stars": "116,298",
+      "forks": "7,609",
+      "todayStars": "本周新增 5,758",
       "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that captures sessions, compresses them, and reinjects useful context.",
+      "language": "TypeScript",
+      "stars": "66,704",
+      "forks": "5,656",
+      "todayStars": "本周新增 7,562",
+      "url": "https://github.com/thedotmack/claude-mem"
+    },
+    {
+      "repo": "multica-ai/multica",
+      "description": "The open-source managed agents platform for assigning tasks, tracking progress, and compounding skills.",
+      "language": "TypeScript",
+      "stars": "20,423",
+      "forks": "2,485",
+      "todayStars": "本周新增 5,741",
+      "url": "https://github.com/multica-ai/multica"
+    },
+    {
+      "repo": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": "8,709",
+      "forks": "676",
+      "todayStars": "本周新增 2,183",
+      "url": "https://github.com/zilliztech/claude-context"
+    },
+    {
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction.",
+      "language": "TypeScript",
+      "stars": "9,650",
+      "forks": "662",
+      "todayStars": "本周新增 1,797",
+      "url": "https://github.com/mksglu/context-mode"
+    },
+    {
+      "repo": "Lordog/dive-into-llms",
+      "description": "Programming practice tutorials for learning large models hands-on.",
+      "language": "Jupyter Notebook",
+      "stars": "34,130",
+      "forks": "4,188",
+      "todayStars": "本周新增 3,561",
+      "url": "https://github.com/Lordog/dive-into-llms"
     }
   ]
 }

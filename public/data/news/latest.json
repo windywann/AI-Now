@@ -1,6 +1,51 @@
 {
-  "updatedAt": "2026-04-15T13:57:07.327Z",
+  "updatedAt": "2026-04-24T09:29:34Z",
   "items": [
+    {
+      "title": "OpenAI 发布 GPT-5.5：面向 ChatGPT 与 Codex 推出更强知识工作模型",
+      "summary": "OpenAI 于 4 月 23 日发布 GPT-5.5，并同步推出更高精度的 GPT-5.5 Pro。新模型已向 ChatGPT 与 Codex 的 Plus、Pro、Business、Enterprise 等用户逐步开放，主打更强的长任务持续性、工具调用与知识工作表现；OpenAI 同时表示 API 版本即将上线，并给出最高 100 万上下文窗口的定价计划。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-gpt-5-5/",
+      "category": "大模型",
+      "date": "2026-04-23",
+      "time": "09:00"
+    },
+    {
+      "title": "Google Cloud Next '26 发布 Gemini Enterprise Agent Platform，企业 Agent 基建全面升级",
+      "summary": "Google 于 4 月 22 日在 Cloud Next '26 上集中发布面向企业 Agent 的平台能力，核心包括 Gemini Enterprise Agent Platform 与新一代 TPU 路线。官方披露，已有近 75% 的 Google Cloud 客户在使用其 AI 产品，过去 12 个月内有 330 家客户各自处理了超过 1 万亿 token，显示企业级 Agent 与推理基础设施正在快速规模化。",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/next-2026/",
+      "category": "基础设施",
+      "date": "2026-04-22",
+      "time": "10:00"
+    },
+    {
+      "title": "OpenAI 开源 Privacy Filter：1.5B 小模型支持本地 PII 检测与脱敏",
+      "summary": "OpenAI 于 4 月 22 日发布开源权重模型 Privacy Filter，面向文本中的个人敏感信息识别与脱敏场景。该模型支持最长 128K 上下文、可在本地运行，在修正后的 PII-Masking-300k 基准上达到 97.43% F1；OpenAI 同步开放 Hugging Face 与 GitHub 下载，希望把隐私保护能力前置到训练、索引、日志和审查链路中。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/introducing-openai-privacy-filter/",
+      "category": "安全",
+      "date": "2026-04-22",
+      "time": "09:00"
+    },
+    {
+      "title": "OpenAI 推出 Codex Labs，并联合全球系统集成商加速企业部署",
+      "summary": "OpenAI 于 4 月 21 日宣布推出 Codex Labs，把 OpenAI 专家直接带入企业现场，帮助团队把 Codex 落地到真实工作流。官方同时披露 Codex 周活开发者已从月初的 300 万增长到超过 400 万，并与 Accenture、Capgemini、Cognizant、Infosys、PwC、TCS 等伙伴合作，推动从试点走向生产级部署。",
+      "source": "OpenAI",
+      "url": "https://openai.com/index/scaling-codex-to-enterprises-worldwide/",
+      "category": "企业应用",
+      "date": "2026-04-21",
+      "time": "09:00"
+    },
+    {
+      "title": "Anthropic 与 Amazon 扩大合作：锁定最多 5GW 新算力，十年 AWS 投入超 1000 亿美元",
+      "summary": "Anthropic 于 4 月 20 日宣布与 Amazon 达成新的长期算力合作协议，将在未来十年向 AWS 技术投入超过 1000 亿美元，并锁定最多 5GW 新容量用于训练和部署 Claude。Anthropic 表示到 2026 年底前将有接近 1GW 的 Trainium2 与 Trainium3 能力上线，Amazon 还将新增 50 亿美元投资，并保留后续最多 200 亿美元追加空间。",
+      "source": "Anthropic",
+      "url": "https://www.anthropic.com/news/anthropic-amazon-compute",
+      "category": "行业动态",
+      "date": "2026-04-20",
+      "time": "09:00"
+    },
     {
       "title": "Anthropic 发布 Project Glasswing：联合 AWS、Apple、谷歌等 12 家科技巨头保卫全球关键软件安全",
       "summary": "Anthropic 于 4 月 15 日宣布 Project Glasswing，联合亚马逊、苹果、博通、思科、CrowdStrike、谷歌、摩根大通、微软、英伟达等，将 Claude Mythos Preview 的漏洞挖掘能力用于防御性网络安全。Mythos Preview 已在每个主流操作系统和浏览器中发现数千个高危零日漏洞，Anthropic 承诺提供 1 亿美元使用积分及 400 万美元开源安全捐款。",

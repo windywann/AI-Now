@@ -1,77 +1,77 @@
 {
-  "updatedAt": "2026-04-15T13:57:16.975Z",
+  "updatedAt": "2026-04-24T09:29:34Z",
   "items": [
     {
-      "repo": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "repo": "huggingface/ml-intern",
+      "description": "An open-source ML engineer that reads papers, trains models, and ships ML models.",
       "language": "Python",
-      "stars": "29,412",
-      "forks": "3,891",
-      "todayStars": "今日新增 823",
-      "url": "https://github.com/NousResearch/hermes-agent"
+      "stars": "4,397",
+      "forks": "368",
+      "todayStars": "今日新增 720",
+      "url": "https://github.com/huggingface/ml-intern"
     },
     {
-      "repo": "anthropics/project-glasswing",
-      "description": "Project Glasswing: AI-powered vulnerability detection for critical software",
-      "language": "Python",
-      "stars": "8,734",
-      "forks": "1,021",
-      "todayStars": "今日新增 2,194",
-      "url": "https://github.com/anthropics/project-glasswing"
+      "repo": "zilliztech/claude-context",
+      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
+      "language": "TypeScript",
+      "stars": "8,703",
+      "forks": "676",
+      "todayStars": "今日新增 1,011",
+      "url": "https://github.com/zilliztech/claude-context"
     },
     {
-      "repo": "HKUDS/DeepTutor",
-      "description": "DeepTutor: Agent-Native Personalized Learning Assistant",
+      "repo": "HKUDS/RAG-Anything",
+      "description": "All-in-one multimodal RAG framework for building retrieval systems beyond text.",
       "language": "Python",
-      "stars": "12,087",
-      "forks": "1,671",
-      "todayStars": "今日新增 312",
-      "url": "https://github.com/HKUDS/DeepTutor"
+      "stars": "18,462",
+      "forks": "2,126",
+      "todayStars": "今日新增 590",
+      "url": "https://github.com/HKUDS/RAG-Anything"
     },
     {
-      "repo": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM",
-      "language": "Python",
-      "stars": "26,218",
-      "forks": "3,489",
-      "todayStars": "今日新增 276",
-      "url": "https://github.com/onyx-dot-app/onyx"
+      "repo": "microsoft/ai-agents-for-beginners",
+      "description": "12 lessons to help developers get started building AI agents.",
+      "language": "Jupyter Notebook",
+      "stars": "59,100",
+      "forks": "20,063",
+      "todayStars": "今日新增 208",
+      "url": "https://github.com/microsoft/ai-agents-for-beginners"
     },
     {
-      "repo": "unslothai/unsloth",
-      "description": "Unsloth Studio is a web UI for training and running open models like Gemma 4, Qwen3.5, DeepSeek, gpt-oss locally.",
-      "language": "Python",
-      "stars": "41,823",
-      "forks": "6,102",
-      "todayStars": "今日新增 198",
-      "url": "https://github.com/unslothai/unsloth"
+      "repo": "cline/cline",
+      "description": "Autonomous coding agent in your IDE with tools for files, shell, and browser workflows.",
+      "language": "TypeScript",
+      "stars": "60,931",
+      "forks": "6,266",
+      "todayStars": "今日新增 123",
+      "url": "https://github.com/cline/cline"
     },
     {
-      "repo": "donnemartin/system-design-primer",
-      "description": "Learn how to design large-scale systems. Prep for the system design interview. Includes Anki flashcards.",
-      "language": "Python",
-      "stars": "342,104",
-      "forks": "55,298",
-      "todayStars": "今日新增 145",
-      "url": "https://github.com/donnemartin/system-design-primer"
+      "repo": "mksglu/context-mode",
+      "description": "Context window optimization for AI coding agents with sandboxed tool output.",
+      "language": "TypeScript",
+      "stars": "9,644",
+      "forks": "662",
+      "todayStars": "今日新增 238",
+      "url": "https://github.com/mksglu/context-mode"
     },
     {
-      "repo": "bytedance/deer-flow",
-      "description": "An open-source long-horizon SuperAgent harness that researches, codes, and creates.",
-      "language": "Python",
-      "stars": "18,432",
-      "forks": "2,341",
-      "todayStars": "今日新增 134",
-      "url": "https://github.com/bytedance/deer-flow"
+      "repo": "chiphuyen/aie-book",
+      "description": "Resources and supporting materials for AI engineering and applied model building.",
+      "language": "Jupyter Notebook",
+      "stars": "15,295",
+      "forks": "2,197",
+      "todayStars": "今日新增 215",
+      "url": "https://github.com/chiphuyen/aie-book"
     },
     {
-      "repo": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars": "52,873",
-      "forks": "3,915",
-      "todayStars": "今日新增 119",
-      "url": "https://github.com/microsoft/markitdown"
+      "repo": "VoltAgent/awesome-agent-skills",
+      "description": "A curated collection of agent skills compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
+      "language": "",
+      "stars": "18,468",
+      "forks": "1,960",
+      "todayStars": "今日新增 228",
+      "url": "https://github.com/VoltAgent/awesome-agent-skills"
     }
   ]
 }
