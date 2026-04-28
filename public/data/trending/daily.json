@@ -1,77 +1,77 @@
 {
-  "updatedAt": "2026-04-24T09:29:34Z",
+  "updatedAt": "2026-04-28T03:54:08Z",
   "items": [
     {
-      "repo": "huggingface/ml-intern",
-      "description": "An open-source ML engineer that reads papers, trains models, and ships ML models.",
+      "repo": "mattpocock/skills",
+      "description": "Skills for real engineers, shared directly from a working .claude directory.",
+      "language": "Shell",
+      "stars": "31,231",
+      "forks": "2,450",
+      "todayStars": "今日新增 5,645",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "abhigyanpatwari/GitNexus",
+      "description": "A browser-based code intelligence graph with built-in Graph RAG agent support.",
+      "language": "TypeScript",
+      "stars": "31,750",
+      "forks": "3,622",
+      "todayStars": "今日新增 1,102",
+      "url": "https://github.com/abhigyanpatwari/GitNexus"
+    },
+    {
+      "repo": "ComposioHQ/awesome-codex-skills",
+      "description": "A curated collection of practical Codex skills for workflow automation.",
       "language": "Python",
-      "stars": "4,397",
-      "forks": "368",
-      "todayStars": "今日新增 720",
-      "url": "https://github.com/huggingface/ml-intern"
+      "stars": "2,948",
+      "forks": "212",
+      "todayStars": "今日新增 638",
+      "url": "https://github.com/ComposioHQ/awesome-codex-skills"
     },
     {
-      "repo": "zilliztech/claude-context",
-      "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
-      "language": "TypeScript",
-      "stars": "8,703",
-      "forks": "676",
-      "todayStars": "今日新增 1,011",
-      "url": "https://github.com/zilliztech/claude-context"
-    },
-    {
-      "repo": "HKUDS/RAG-Anything",
-      "description": "All-in-one multimodal RAG framework for building retrieval systems beyond text.",
+      "repo": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code for free in terminal, VSCode, or Discord-style workflows.",
       "language": "Python",
-      "stars": "18,462",
-      "forks": "2,126",
-      "todayStars": "今日新增 590",
-      "url": "https://github.com/HKUDS/RAG-Anything"
+      "stars": "16,351",
+      "forks": "2,279",
+      "todayStars": "今日新增 2,949",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
-      "repo": "microsoft/ai-agents-for-beginners",
-      "description": "12 lessons to help developers get started building AI agents.",
-      "language": "Jupyter Notebook",
-      "stars": "59,100",
-      "forks": "20,063",
-      "todayStars": "今日新增 208",
-      "url": "https://github.com/microsoft/ai-agents-for-beginners"
+      "repo": "gastownhall/beads",
+      "description": "A memory upgrade layer for coding agents.",
+      "language": "Go",
+      "stars": "22,275",
+      "forks": "1,461",
+      "todayStars": "今日新增 498",
+      "url": "https://github.com/gastownhall/beads"
     },
     {
-      "repo": "cline/cline",
-      "description": "Autonomous coding agent in your IDE with tools for files, shell, and browser workflows.",
-      "language": "TypeScript",
-      "stars": "60,931",
-      "forks": "6,266",
-      "todayStars": "今日新增 123",
-      "url": "https://github.com/cline/cline"
+      "repo": "microsoft/VibeVoice",
+      "description": "Open-source frontier voice AI.",
+      "language": "Python",
+      "stars": "43,291",
+      "forks": "4,903",
+      "todayStars": "今日新增 757",
+      "url": "https://github.com/microsoft/VibeVoice"
     },
     {
-      "repo": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents with sandboxed tool output.",
-      "language": "TypeScript",
-      "stars": "9,644",
-      "forks": "662",
-      "todayStars": "今日新增 238",
-      "url": "https://github.com/mksglu/context-mode"
+      "repo": "TauricResearch/TradingAgents",
+      "description": "A multi-agent LLM financial trading framework.",
+      "language": "Python",
+      "stars": "53,938",
+      "forks": "9,790",
+      "todayStars": "今日新增 248",
+      "url": "https://github.com/TauricResearch/TradingAgents"
     },
     {
-      "repo": "chiphuyen/aie-book",
-      "description": "Resources and supporting materials for AI engineering and applied model building.",
-      "language": "Jupyter Notebook",
-      "stars": "15,295",
-      "forks": "2,197",
-      "todayStars": "今日新增 215",
-      "url": "https://github.com/chiphuyen/aie-book"
-    },
-    {
-      "repo": "VoltAgent/awesome-agent-skills",
-      "description": "A curated collection of agent skills compatible with Claude Code, Codex, Gemini CLI, Cursor, and more.",
-      "language": "",
-      "stars": "18,468",
-      "forks": "1,960",
-      "todayStars": "今日新增 228",
-      "url": "https://github.com/VoltAgent/awesome-agent-skills"
+      "repo": "deepseek-ai/DeepSeek-V3",
+      "description": "DeepSeek's open model repository for V3.",
+      "language": "Python",
+      "stars": "103,156",
+      "forks": "16,701",
+      "todayStars": "今日新增 81",
+      "url": "https://github.com/deepseek-ai/DeepSeek-V3"
     }
   ]
 }

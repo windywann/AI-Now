@@ -1,86 +1,77 @@
 {
-  "updatedAt": "2026-04-24T09:29:34Z",
+  "updatedAt": "2026-04-28T03:54:08Z",
   "items": [
     {
-      "repo": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "repo": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code for free in the terminal, VSCode extension, or Discord-like workflows.",
       "language": "Python",
-      "stars": "114,192",
-      "forks": "16,680",
-      "todayStars": "本周新增 20,316",
-      "url": "https://github.com/NousResearch/hermes-agent"
-    },
-    {
-      "repo": "openai/openai-agents-python",
-      "description": "A lightweight, powerful framework for multi-agent workflows.",
-      "language": "Python",
-      "stars": "24,929",
-      "forks": "3,807",
-      "todayStars": "本周新增 3,842",
-      "url": "https://github.com/openai/openai-agents-python"
-    },
-    {
-      "repo": "Tracer-Cloud/opensre",
-      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
-      "language": "Python",
-      "stars": "2,743",
-      "forks": "302",
-      "todayStars": "本周新增 1,614",
-      "url": "https://github.com/Tracer-Cloud/opensre"
-    },
-    {
-      "repo": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars": "116,298",
-      "forks": "7,609",
-      "todayStars": "本周新增 5,758",
-      "url": "https://github.com/microsoft/markitdown"
-    },
-    {
-      "repo": "thedotmack/claude-mem",
-      "description": "A Claude Code plugin that captures sessions, compresses them, and reinjects useful context.",
-      "language": "TypeScript",
-      "stars": "66,704",
-      "forks": "5,656",
-      "todayStars": "本周新增 7,562",
-      "url": "https://github.com/thedotmack/claude-mem"
-    },
-    {
-      "repo": "multica-ai/multica",
-      "description": "The open-source managed agents platform for assigning tasks, tracking progress, and compounding skills.",
-      "language": "TypeScript",
-      "stars": "20,423",
-      "forks": "2,485",
-      "todayStars": "本周新增 5,741",
-      "url": "https://github.com/multica-ai/multica"
+      "stars": "16,350",
+      "forks": "2,279",
+      "todayStars": "本周新增 13,415",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
       "repo": "zilliztech/claude-context",
       "description": "Code search MCP for Claude Code. Make entire codebase the context for any coding agent.",
       "language": "TypeScript",
-      "stars": "8,709",
-      "forks": "676",
-      "todayStars": "本周新增 2,183",
+      "stars": "9,900",
+      "forks": "751",
+      "todayStars": "本周新增 3,725",
       "url": "https://github.com/zilliztech/claude-context"
     },
     {
+      "repo": "mattpocock/skills",
+      "description": "Skills for real engineers, shared directly from a working .claude directory.",
+      "language": "Shell",
+      "stars": "31,230",
+      "forks": "2,450",
+      "todayStars": "本周新增 10,757",
+      "url": "https://github.com/mattpocock/skills"
+    },
+    {
+      "repo": "lsdefine/GenericAgent",
+      "description": "A self-evolving agent that grows a skill tree while reducing token usage.",
+      "language": "Python",
+      "stars": "7,792",
+      "forks": "897",
+      "todayStars": "本周新增 2,832",
+      "url": "https://github.com/lsdefine/GenericAgent"
+    },
+    {
       "repo": "mksglu/context-mode",
-      "description": "Context window optimization for AI coding agents. Sandboxes tool output, 98% reduction.",
+      "description": "Context window optimization for AI coding agents with sandboxed tool output.",
       "language": "TypeScript",
-      "stars": "9,650",
-      "forks": "662",
-      "todayStars": "本周新增 1,797",
+      "stars": "10,726",
+      "forks": "742",
+      "todayStars": "本周新增 2,346",
       "url": "https://github.com/mksglu/context-mode"
     },
     {
-      "repo": "Lordog/dive-into-llms",
-      "description": "Programming practice tutorials for learning large models hands-on.",
-      "language": "Jupyter Notebook",
-      "stars": "34,130",
-      "forks": "4,188",
-      "todayStars": "本周新增 3,561",
-      "url": "https://github.com/Lordog/dive-into-llms"
+      "repo": "Anil-matcha/Open-Generative-AI",
+      "description": "An unrestricted open-source image and video generation studio with 200+ models.",
+      "language": "JavaScript",
+      "stars": "9,368",
+      "forks": "1,681",
+      "todayStars": "本周新增 3,862",
+      "url": "https://github.com/Anil-matcha/Open-Generative-AI"
+    },
+    {
+      "repo": "Tracer-Cloud/opensre",
+      "description": "Build your own AI SRE agents. The open source toolkit for the AI era.",
+      "language": "Python",
+      "stars": "3,634",
+      "forks": "405",
+      "todayStars": "本周新增 1,677",
+      "url": "https://github.com/Tracer-Cloud/opensre"
+    },
+    {
+      "repo": "HKUDS/RAG-Anything",
+      "description": "An all-in-one RAG framework that extends retrieval beyond text.",
+      "language": "Python",
+      "stars": "19,075",
+      "forks": "2,180",
+      "todayStars": "本周新增 2,622",
+      "url": "https://github.com/HKUDS/RAG-Anything"
     }
   ]
 }

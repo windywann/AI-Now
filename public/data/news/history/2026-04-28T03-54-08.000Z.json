@@ -1,0 +1,32 @@
+{
+  "updatedAt": "2026-04-28T03:54:08Z",
+  "items": [
+    {
+      "title": "微软放弃对 OpenAI 技术的独家访问权，OpenAI 可转向 AWS 与 Google Cloud 销售服务",
+      "summary": "路透社 4 月 27 日报道，微软与 OpenAI 调整合作条款，微软不再独家持有 OpenAI 技术与产品访问权，OpenAI 因此可以在 AWS 和 Google Cloud 等其他云平台上销售服务。新安排下，微软仍保留至 2032 年的知识产权许可，并继续作为 OpenAI 主要云合作伙伴，但双方关系从排他性联盟进一步转向更开放的商业合作。",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/es/negocio/WE3I7OO2CVJB7MSO6M3ABCSBII-2026-04-27/",
+      "category": "行业动态",
+      "date": "2026-04-27",
+      "time": "09:00"
+    },
+    {
+      "title": "Google 计划向 Anthropic 投入最高 400 亿美元现金与算力资源",
+      "summary": "TechCrunch 4 月 24 日报道称，Google 计划以现金和算力资源形式向 Anthropic 提供最高 400 亿美元支持，其中包括 100 亿美元即时投入和附带业绩目标的后续承诺。报道指出，这笔支持还将叠加未来五年的 Google Cloud 大规模算力供给，反映出前沿模型公司对长期计算资源和资本绑定的竞争持续升级。",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "category": "行业动态",
+      "date": "2026-04-24",
+      "time": "10:00"
+    },
+    {
+      "title": "Google 总结 Cloud Next '26 七大更新：Gemini Enterprise Agent Platform 成为核心主线",
+      "summary": "Google 于 4 月 24 日发布 Cloud Next '26 总结，重点回顾 Gemini Enterprise Agent Platform、Gemini Enterprise app、Agent Designer、Agent Inbox 以及第八代 TPU 等更新。官方将这一轮发布定义为“agentic era”的基础设施成型阶段，强调企业可在低代码界面中构建与治理长时运行代理，并把 AI 能力直接嵌入日常办公与业务系统。",
+      "source": "Google",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/google-cloud-next-26-recap/",
+      "category": "基础设施",
+      "date": "2026-04-24",
+      "time": "09:00"
+    }
+  ]
+}

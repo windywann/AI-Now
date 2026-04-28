@@ -1,95 +1,95 @@
 {
-  "updatedAt": "2026-04-24T09:29:34Z",
+  "updatedAt": "2026-04-28T03:54:08Z",
   "items": [
     {
+      "repo": "forrestchang/andrej-karpathy-skills",
+      "description": "A single CLAUDE.md file derived from Andrej Karpathy's observations on LLM coding pitfalls.",
+      "language": "",
+      "stars": "94,587",
+      "forks": "9,147",
+      "todayStars": "本月新增 85,629",
+      "url": "https://github.com/forrestchang/andrej-karpathy-skills"
+    },
+    {
       "repo": "NousResearch/hermes-agent",
-      "description": "The agent that grows with you",
+      "description": "The agent that grows with you.",
       "language": "Python",
-      "stars": "114,192",
-      "forks": "16,680",
-      "todayStars": "本月新增 102,133",
+      "stars": "120,985",
+      "forks": "17,999",
+      "todayStars": "本月新增 106,290",
       "url": "https://github.com/NousResearch/hermes-agent"
+    },
+    {
+      "repo": "Yeachan-Heo/oh-my-codex",
+      "description": "Oh My codex with hooks, agent teams, HUDs, and extended workflow tooling.",
+      "language": "TypeScript",
+      "stars": "26,429",
+      "forks": "2,169",
+      "todayStars": "本月新增 23,773",
+      "url": "https://github.com/Yeachan-Heo/oh-my-codex"
+    },
+    {
+      "repo": "shiyu-coder/Kronos",
+      "description": "A foundation model for the language of financial markets.",
+      "language": "Python",
+      "stars": "21,796",
+      "forks": "3,849",
+      "todayStars": "本月新增 10,523",
+      "url": "https://github.com/shiyu-coder/Kronos"
+    },
+    {
+      "repo": "luongnv89/claude-howto",
+      "description": "A visual, example-driven guide to Claude Code from basics to advanced agents.",
+      "language": "Python",
+      "stars": "29,604",
+      "forks": "3,625",
+      "todayStars": "本月新增 27,117",
+      "url": "https://github.com/luongnv89/claude-howto"
     },
     {
       "repo": "HKUDS/DeepTutor",
       "description": "DeepTutor: Agent-Native Personalized Learning Assistant.",
       "language": "Python",
-      "stars": "21,284",
-      "forks": "2,871",
-      "todayStars": "本月新增 10,475",
+      "stars": "22,258",
+      "forks": "2,970",
+      "todayStars": "本月新增 11,444",
       "url": "https://github.com/HKUDS/DeepTutor"
-    },
-    {
-      "repo": "microsoft/VibeVoice",
-      "description": "Open-Source Frontier Voice AI.",
-      "language": "Python",
-      "stars": "40,897",
-      "forks": "4,728",
-      "todayStars": "本月新增 17,134",
-      "url": "https://github.com/microsoft/VibeVoice"
-    },
-    {
-      "repo": "onyx-dot-app/onyx",
-      "description": "Open Source AI Platform - AI Chat with advanced features that works with every LLM.",
-      "language": "Python",
-      "stars": "28,319",
-      "forks": "3,761",
-      "todayStars": "本月新增 10,377",
-      "url": "https://github.com/onyx-dot-app/onyx"
-    },
-    {
-      "repo": "microsoft/markitdown",
-      "description": "Python tool for converting files and office documents to Markdown.",
-      "language": "Python",
-      "stars": "116,298",
-      "forks": "7,609",
-      "todayStars": "本月新增 24,309",
-      "url": "https://github.com/microsoft/markitdown"
-    },
-    {
-      "repo": "shiyu-coder/Kronos",
-      "description": "Kronos: A foundation model for the language of financial markets.",
-      "language": "Python",
-      "stars": "21,035",
-      "forks": "3,749",
-      "todayStars": "本月新增 9,544",
-      "url": "https://github.com/shiyu-coder/Kronos"
-    },
-    {
-      "repo": "OpenBMB/VoxCPM",
-      "description": "Tokenizer-free multilingual TTS for speech generation, voice design, and cloning.",
-      "language": "Python",
-      "stars": "15,785",
-      "forks": "1,858",
-      "todayStars": "本月新增 9,655",
-      "url": "https://github.com/OpenBMB/VoxCPM"
     },
     {
       "repo": "google-ai-edge/gallery",
       "description": "A gallery of on-device ML and GenAI use cases that can be tried locally.",
       "language": "Kotlin",
-      "stars": "21,934",
-      "forks": "2,118",
-      "todayStars": "本月新增 6,534",
+      "stars": "22,161",
+      "forks": "2,151",
+      "todayStars": "本月新增 6,756",
       "url": "https://github.com/google-ai-edge/gallery"
     },
     {
-      "repo": "google-research/timesfm",
-      "description": "A pretrained time-series foundation model developed by Google Research.",
+      "repo": "Alishahryar1/free-claude-code",
+      "description": "Use Claude Code for free in the terminal, VSCode extension, or Discord-like workflows.",
       "language": "Python",
-      "stars": "18,442",
-      "forks": "1,805",
-      "todayStars": "本月新增 8,358",
-      "url": "https://github.com/google-research/timesfm"
+      "stars": "16,350",
+      "forks": "2,279",
+      "todayStars": "本月新增 14,253",
+      "url": "https://github.com/Alishahryar1/free-claude-code"
     },
     {
-      "repo": "google-ai-edge/LiteRT-LM",
-      "description": "LiteRT-LM runtime for on-device language model inference.",
-      "language": "C++",
-      "stars": "4,249",
-      "forks": "421",
-      "todayStars": "本月新增 3,265",
-      "url": "https://github.com/google-ai-edge/LiteRT-LM"
+      "repo": "microsoft/markitdown",
+      "description": "Python tool for converting files and office documents to Markdown.",
+      "language": "Python",
+      "stars": "118,012",
+      "forks": "7,768",
+      "todayStars": "本月新增 25,592",
+      "url": "https://github.com/microsoft/markitdown"
+    },
+    {
+      "repo": "thedotmack/claude-mem",
+      "description": "A Claude Code plugin that captures sessions, compresses them, and reinjects useful context.",
+      "language": "TypeScript",
+      "stars": "68,681",
+      "forks": "5,854",
+      "todayStars": "本月新增 27,414",
+      "url": "https://github.com/thedotmack/claude-mem"
     }
   ]
 }
